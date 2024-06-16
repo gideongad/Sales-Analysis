@@ -7,10 +7,12 @@
 - [Recommendation](#recommendation)
   
 ### Project Overview
+---
 
 Analyzing sales of a financial institute from 2020-2023
 
 
+![UBA LOGO](https://github.com/gideongad/Sales-Analysis/assets/172928409/745f6f03-94ab-4a0f-86a8-3229c7ec09d2)
 
 ### Data Source
 
@@ -67,3 +69,11 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 1. SQL for Business by Worty
 2. [stack overflow](https;//stack.com)
+
+😄
+
+💻
+
+**bold**
+
+*italic*
